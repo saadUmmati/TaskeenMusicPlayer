@@ -103,7 +103,7 @@ MusicPlayer/
 
 ---
 
-## 📦 Screenshots
+## 📱 Screenshots
 
 <p align="center">
   
