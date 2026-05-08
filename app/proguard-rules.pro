@@ -1,0 +1,3 @@
+-keep class com.melodix.player.model.** { *; }
+-keep class com.melodix.player.service.** { *; }
+-dontwarn com.bumptech.glide.**

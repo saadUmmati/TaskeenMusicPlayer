@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Melodix</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="all_songs">All Songs</string>
+    <string name="no_songs_found">No music found on this device</string>
+    <string name="permission_required">Storage permission is required to read music files</string>
+    <string name="sort_by">Sort by</string>
+    <string name="search_songs">Search songs…</string>
+</resources>
