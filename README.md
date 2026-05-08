@@ -1,4 +1,4 @@
-# 🎵 Melodix – Android Music Player
+# 🎵 Taskeen – Android Music Player
 
 A complete, production-ready Android music player built with **Kotlin** and **XML** layouts.
 
@@ -103,6 +103,19 @@ MusicPlayer/
 
 ---
 
+## 📦 Screenshots
+
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/fd515a09-c44c-46bb-b376-248dca9fb7aa" width="23%" alt="Main Library" />
+  <img src="https://github.com/user-attachments/assets/3fe66a55-c484-4335-b97a-14af449bed7b" width="23%" alt="Player UI" />
+  <img src="https://github.com/user-attachments/assets/b5e9f78b-6323-46c5-bc1e-479c05e60de0" width="23%" alt="Dynamic Colors" />
+  <img src="https://github.com/user-attachments/assets/3f7741cc-8b6e-4766-bd2d-2fad79bba69d" width="23%" alt="Mini Player" />
+</p>
+
+---
+
+
 ## 📦 Dependencies
 
 ```gradle
@@ -171,6 +184,14 @@ PlayerActivity
             └── Palette API for dynamic background color
 ```
 
+
+
+## 🚀 Getting Started
+
+1. **Clone the Repo:** `git clone https://github.com/yourusername/melodix-player.git`
+2. **Build:** Open in Android Studio (Electric Eel or newer recommended).
+3. **Run:** Ensure you grant Media Permissions when prompted to see your music library.
+
 ---
 
 ## 🛠️ Customization Tips
@@ -186,3 +207,8 @@ PlayerActivity
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+---
+
+<p align="center">
+*Developed by Muhammad Saad Ahmed — shipping products, not just code.*</p>
